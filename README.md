@@ -3,4 +3,4 @@
   <em> Silly system utils written in go</em>
 </div>
 
-🚧WIP🚧
+🚧Heavily still in progress🚧
