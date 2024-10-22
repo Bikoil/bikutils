@@ -10,4 +10,4 @@ All commands can be found in the [src](https://github.com/Bikoil/bikutils/tree/m
 This project is licensed under BSD-3-Clause
 
 
-🚧Heavily still in progress🚧
+🚧 *Heavily still in progress* 🚧
