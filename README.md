@@ -11,3 +11,11 @@ This project is licensed under BSD-3-Clause
 
 
 🚧 *Heavily still in progress* 🚧
+
+## Inspiration
+
+- [BSDCoreUtils](https://github.com/DiegoMagdaleno/BSDCoreUtils)
+- [FreeBSD Core Utilities source](https://cgit.freebsd.org/src/tree/bin)
+- [GNU Coreutils](https://github.com/coreutils/coreutils)
+
+You should definitely check out every single one! They're all very well made and well designed.
